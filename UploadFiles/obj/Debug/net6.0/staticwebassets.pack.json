@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pizone\\Desktop\\.NetSql\\UploadFile\\UploadFiles\\UploadFiles\\wwwroot\\Files\\3cce881b-2236-4ae8-a08a-4505305e96d7\\30d53159-f4ea-4e7a-826d-78730eac8e87.jpg",
+      "PackagePath": "staticwebassets\\Files\\3cce881b-2236-4ae8-a08a-4505305e96d7\\30d53159-f4ea-4e7a-826d-78730eac8e87.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UploadFiles.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UploadFiles.props",
+      "PackagePath": "build\\UploadFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UploadFiles.props",
+      "PackagePath": "buildMultiTargeting\\UploadFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UploadFiles.props",
+      "PackagePath": "buildTransitive\\UploadFiles.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

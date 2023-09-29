@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "O0h/jBZpFlTda5WJ3K00JIQdIehGx7sHQF6KFPA+SLw=",
+  "Source": "UploadFiles",
+  "BasePath": "_content/UploadFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UploadFiles\\wwwroot",
+      "Source": "UploadFiles",
+      "ContentRoot": "C:\\Users\\pizone\\Desktop\\.NetSql\\UploadFile\\UploadFiles\\UploadFiles\\wwwroot\\",
+      "BasePath": "_content/UploadFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pizone\\Desktop\\.NetSql\\UploadFile\\UploadFiles\\UploadFiles\\wwwroot\\Files\\3cce881b-2236-4ae8-a08a-4505305e96d7\\30d53159-f4ea-4e7a-826d-78730eac8e87.jpg",
+      "SourceId": "UploadFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pizone\\Desktop\\.NetSql\\UploadFile\\UploadFiles\\UploadFiles\\wwwroot\\",
+      "BasePath": "_content/UploadFiles",
+      "RelativePath": "Files/3cce881b-2236-4ae8-a08a-4505305e96d7/30d53159-f4ea-4e7a-826d-78730eac8e87.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\3cce881b-2236-4ae8-a08a-4505305e96d7\\30d53159-f4ea-4e7a-826d-78730eac8e87.jpg"
+    }
+  ]
+}
